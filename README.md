@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nd0405
 - 👀 I’m interested in solving problems
 - 🤖 I’m currently learning python oops
+- 🤖 I've learnt the fundamentals of C++ and C
 - 🙌 I’m looking to collaborate with anyone who needed support in building tech stuff
-- 📫 You can contact me by the mail id: tdeep2015@gmail.com
+- 📫 You can contact me by the mail id: navadeeptadakamalla@gmail.com
 
 
 <!---
